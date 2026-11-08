@@ -128,8 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-models/*
-!models/README.md
+#models/*
+#!models/README.md
 
 exp/*
 !exp/README.md
