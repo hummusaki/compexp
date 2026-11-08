@@ -19,4 +19,4 @@ eligible = [
 ]
 
 print("\nTen suggested additional neurons:")
-print(eligible[:10])
+print(eligible[:30])
